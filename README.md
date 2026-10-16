@@ -2,6 +2,12 @@
 
 Code from the [I'll Be Backend](https://www.youtube.com/@illbebackend) videos: messy Rust code gets better, one small, safe refactoring at a time. Every lesson has a video, an [interactive version](https://illbebackend.dev) you can step through, and a folder here with the code after every step.
 
+## Code smells
+
+| Lesson | Steps | Video | Interactive |
+|---|---|---|---|
+| [Clean code: replace comments with code](replace-comments-with-code/) | 13 | [Watch](https://www.youtube.com/watch?v=ktwrzeIwclc) | [Open](https://illbebackend.dev/lessons/replace-comments-with-code/rust/) |
+
 ## Principles
 
 | Lesson | Steps | Video | Interactive |
