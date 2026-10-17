@@ -13,6 +13,7 @@ Code from the [I'll Be Backend](https://www.youtube.com/@illbebackend) videos: m
 | Lesson | Steps | Video | Interactive |
 |---|---|---|---|
 | [DRY: one rule, one place](dry/) | 11 | [Watch](https://www.youtube.com/watch?v=UsVGgD1mqtI) | [Open](https://illbebackend.dev/lessons/dry/rust/) |
+| [KISS: replace a rule engine with plain code](kiss-unwind-a-clever-abstraction/) | 13 | [Watch](https://www.youtube.com/watch?v=cfWPLWyF6nA) | [Open](https://illbebackend.dev/lessons/kiss-unwind-a-clever-abstraction/rust/) |
 
 ## How to use it
 
